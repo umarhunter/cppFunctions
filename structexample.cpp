@@ -7,12 +7,6 @@ struct information { // we declare a structure with the given name information
     string book;
     double pizza;
 };
-blah blah blah blah blah
-
-
-
-
-
 
 int main() { // c++ main function 
     struct information structVar;
