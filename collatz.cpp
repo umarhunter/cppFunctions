@@ -1,7 +1,6 @@
 // Umar F.
 // This program will take positive inputs and show the output of the Collatz sequence.
 #include <iostream>
-#include <cstdio>
 #include <vector>
 
 unsigned int collatz(unsigned int pos_int, std::vector<unsigned int>& list_vec){
